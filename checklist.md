@@ -8,5 +8,5 @@
 |   4  |    과제 2 : 불량 응답 시에도 파이프라인이 정상 종료됨을 캡처로 증명   | assignment-2\ mock test 결과.png, classify test 결과.png, run_pipeline 결과.png |
 |   5  |          과제 2 : 의미 단위 3커밋 이상, 커밋 메시지 규칙 준수         |                                                                                 |
 |   6  |          과제 3 : 팀 가주제 후보 2~3개와 리스크 분석 표 포함          |                                                                                 |
-|   7  |                AI 사용 기록 (프롬프트. 채택 내역) 첨부                |             assignment-1 \ usage_log.md, assignment-1 \ usage_log.md            |
+|   7  |                AI 사용 기록 (프롬프트. 채택 내역) 첨부                |             assignment-1 \ usage_log.md, assignment-2 \ usage_log.md            |
 |   8  |         GitHub 저장소 링크 제출 (커밋 히스토리 공개 상태 확인)        |                                                                                 |
